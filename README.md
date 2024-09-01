@@ -12,3 +12,4 @@ Used random function to generate Pin for users to open his/her account
 
 Implemented robust error handling and input validation to ensure reliability and prevent system crashes.
  
+![Screenshot (1688)](https://github.com/user-attachments/assets/2fe1315a-31b2-47ca-992e-2c404d54a379)
